@@ -17,7 +17,7 @@ dotnet restore
 
 Run the API:
 dotnet run
-The API should be running at http://localhost:5000 (or another URL if configured differently).
+The API should be running at http://localhost:5000 (or another URL if configured differently{https://localhost:7237/swagger/index.html} ).
 
 Use Swagger to test the API or Postman to interact with the endpoints.
 
